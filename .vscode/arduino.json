@@ -1,0 +1,6 @@
+{
+    "programmer": "AVRISP mkII",
+    "board": "arduino:avr:leonardo",
+    "port": "COM16",
+    "sketch": "OpCtrl2020.ino"
+}
